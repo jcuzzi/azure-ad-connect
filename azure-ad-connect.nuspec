@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>azure-ad-connect</id>
+    <version>1.5.30.0</version>
+    <title>Azure AD Connect (Install)</title>
+    <projectUrl>https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect</projectUrl>
+    <authors>Microsoft</authors>
+    <owners>jcuzzi</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <tags>azure-ad-connect microsoft azure active directory azuread azureadconnect dirsync</tags>
+    <packageSourceUrl>https://github.com/jcuzzi/azure-ad-connect</packageSourceUrl>
+    <summary>Azure AD Connect</summary>
+    <description>Azure AD Connect</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
