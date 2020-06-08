@@ -3,7 +3,7 @@
   <metadata>
     <id>azure-ad-connect</id>
     <version>1.5.30.0</version>
-    <title>Azure AD Connect (Install)</title>
+    <title>Azure AD Connect</title>
     <projectUrl>https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect</projectUrl>
     <authors>Microsoft</authors>
     <owners>jcuzzi</owners>
