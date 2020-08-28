@@ -20,6 +20,9 @@
     Developers can build applications that leverage the common identity model, integrating applications into Active Directory on-premises or Azure for cloud-based applications
 
     Azure AD Connect makes this integration easy and simplifies the management of your on-premises and cloud identity infrastructure. To find information about the Azure AD Connect version release history , please refer to https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history. 
+
+    ###Notes
+    * This package always installs the latest version of Azure AD Connect, regardless of the version specified in the package. Microsoft does not officially offer older versions of Azure AD Connect for download. Because of this you may get a checksum mismatch between the time Microsoft releases a new installer and the package is updated.
     </description>
   </metadata>
   <files>
