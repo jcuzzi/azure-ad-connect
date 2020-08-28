@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>azure-ad-connect</id>
-    <version>1.5.42.0</version>
+    <version>1.5.45.0</version>
     <title>Azure AD Connect</title>
     <projectUrl>https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect</projectUrl>
     <authors>Microsoft</authors>

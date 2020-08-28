@@ -1,4 +1,4 @@
-﻿$checksum = '601fe3b20792668d0f140b040c3d7feeeb54616391d5a5ab6c2fb42feccae20c'
+﻿$checksum = 'fbe5f85e0aaab246aaeaaea29934f34ea6ebb1c41d7680a8958696dff39f4069'
 $url = 'https://download.microsoft.com/download/B/0/0/B00291D0-5A83-4DE7-86F5-980BC00DE05A/AzureADConnect.msi'
 
 $softwareName = 'Microsoft Azure AD Connect'
